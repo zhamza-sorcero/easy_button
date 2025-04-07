@@ -6,3 +6,4 @@ seaborn>=0.11.0
 plotly>=5.8.0
 altair>=4.2.0
 scikit-learn>=1.0.0
+statsmodels>=0.13.0
